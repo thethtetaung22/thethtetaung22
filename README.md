@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS and Java.<br>- 🌱 I’m currently learning GenAI, Machine Learning, LLM, Blockchain, etc<br>- 👯 I’m looking to collaborate on AI and Blockchain.<br>- 📫 How to reach me: thethtetaung0@gmail.com<br>- 😄 Pronouns: He/Him
+🔭 I’m currently working on NextJS and Java.<br>- 🌱 I’m currently learning GenAI, Machine Learning, LLM, Blockchain, etc<br>- 👯 I’m looking to collaborate on AI and Blockchain.<br>- 📫 How to reach me: thethtetaung.dev@gmail.com<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
